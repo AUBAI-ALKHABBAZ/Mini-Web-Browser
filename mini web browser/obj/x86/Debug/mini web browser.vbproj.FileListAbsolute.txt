@@ -1,0 +1,48 @@
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\bin\Debug\mini web browser.exe
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\bin\Debug\mini web browser.pdb
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\bin\Debug\mini web browser.xml
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Form1.resources
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Resources.resources
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini web browser.exe
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini web browser.xml
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini web browser.pdb
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\bin\Debug\Interop.WMPLib.dll
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\bin\Debug\AxInterop.WMPLib.dll
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\Interop.WMPLib.dll
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\AxInterop.WMPLib.dll
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini web browser.vbproj.ResolveComReference.cache
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.AboutBox1.resources
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Form2.resources
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Form3.resources
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Form4.resources
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Form5.resources
+c:\users\dal\documents\visual studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.form6.resources
+C:\Users\dal\Documents\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Form7.resources
+C:\Users\dal\Documents\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Form8.resources
+C:\Users\dal\Documents\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.LoginForm1.resources
+C:\Users\dal\Documents\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini web browser.vbproj.GenerateResource.Cache
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini web browser.vbprojAssemblyReference.cache
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini web browser.exe
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini web browser.xml
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini web browser.pdb
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\bin\Debug\mini web browser.exe
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\bin\Debug\mini web browser.pdb
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\bin\Debug\mini web browser.xml
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\bin\Debug\Interop.WMPLib.dll
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini web browser.vbproj.ResolveComReference.cache
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.AboutBox1.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Form1.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Form2.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Form3.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Form4.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Form5.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.form6.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Form7.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Form8.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.LoginForm1.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini_web_browser.Resources.resources
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini web browser.vbproj.GenerateResource.cache
+C:\Users\AUBAI\Desktop\new_file\new files for my\ملفاتي\pc -all app\Visual Studio 2010\Projects\mini web browser\mini web browser\obj\x86\Debug\mini web browser.vbproj.CoreCompileInputs.cache
